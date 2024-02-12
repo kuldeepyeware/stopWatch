@@ -5,7 +5,7 @@
   <p align="center">A Simple Stop Watch is created to learn about React and Tailwind CSS
     <br />
     <br />
-    <a href="">View Deployed Project</a>
+    <a href="https://stop-watch-steel.vercel.app/">View Deployed Project</a>
   </p>
 </div>
 
